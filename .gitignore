@@ -1,0 +1,8 @@
+data/
+mlruns/
+mlflow.db
+__pycache__/
+.pytest_cache/
+eta_data.py
+load_test.py
+requirements.txt

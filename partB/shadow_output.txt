@@ -1,0 +1,4 @@
+200 identical one-row requests; 5101 served v1, 5102 served v2
+mean abs difference: 9.48 min
+differ by > 10 min: 35.0%
+p95 latency: prod 3.5 ms, candidate 3.6 ms

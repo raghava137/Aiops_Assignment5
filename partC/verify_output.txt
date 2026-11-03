@@ -1,0 +1,8 @@
+Ray CPUs: 2.0
+(a) weight 0.2: 21.3% of 1000 customers on v2
+(b) second call: 200/200 same arm
+(c) after redeploy: 200/200 same arm
+(d) weight 0.5: 50.9% on v2, moved from v2 back to v1: 0
+(e) X-Beta: 1 on 50 prod customers: 50/50 on v2
+replicas: {'EtaModelV1': {'RUNNING': 2}, 'EtaModelV2': {'RUNNING': 1}, 'Router': {'RUNNING': 1}}
+all checks passed

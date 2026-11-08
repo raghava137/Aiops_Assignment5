@@ -16,7 +16,7 @@ follows the Lecture 10 notebooks in the course repo (REST, MLflow and Ray Serve 
 **2. Formatting the Markdown files and the report**
 
 I used it to format and tidy up `README.md` and this file so they're readable, and to draft the written
-answers in the report from the results of my own runs.
+answers in the report from the results of my own runs
 
 ## Conclusion
 

@@ -1,4 +1,4 @@
-# DA3408 Module 4 Assignment 5: SwiftParcel ETA serving
+# DA3408 Module 4 Assignment 5
 
 Raghava R (DA24B021). The written answers and results are in `REPORT.pdf`.
 
